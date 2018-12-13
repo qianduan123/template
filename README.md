@@ -5,14 +5,11 @@
 ## Build Setup
 
 ``` bash
- > 开发
-npm run dev
+> 开发 npm run dev
 
- > 测试
-npm run build:test
+> 测试 npm run build:test
 
- > 生产
-npm run build
+> 生产 npm run build
 ```
 
 ```
